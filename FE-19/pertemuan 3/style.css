@@ -1,0 +1,107 @@
+.bg {
+  width: 1000;
+  visibility: inherit;
+}
+
+.baris0 {
+  width: 70;
+}
+
+.baris1 {
+  background-color: navy;
+  height: 30px;
+  color: white;
+}
+
+.baris2 {
+  background-color: aliceblue;
+  height: 50px;
+  width: 100%;
+}
+
+.button1 {
+  background-color: navy;
+  color: white;
+  border-radius: 10%;
+  box-shadow: 50%;
+}
+
+.baris3 {
+  color: navy;
+}
+
+.baris4 {
+  color: navy;
+  font-size: 27;
+}
+
+.button2 {
+  background-color: navy;
+  color: white;
+  height: 30;
+  width: 200;
+  border-radius: 10%;
+  box-shadow: 50%;
+}
+
+.baris6 {
+  width: 250;
+}
+
+.baris7 {
+  width: 70;
+  height: 30;
+}
+
+.baris8 {
+  height: 15;
+  width: 15;
+}
+
+.baris9 {
+  height: 2;
+  width: 2;
+}
+
+.baris10 {
+  height: 8;
+  width: 8;
+}
+
+.button3 {
+  background-color: navy;
+  color: white;
+  height: 50;
+  width: 200;
+  border-radius: 10%;
+  box-shadow: 50%;
+}
+
+.baris11 {
+  height: 25;
+  column-width: 5;
+  font-size: 10;
+}
+
+.baris12 {
+  height: 20;
+  column-width: 180;
+  font-size: 10;
+  text-decoration: none;
+  font-weight: bold;
+  align-content: center;
+}
+
+.baris13 {
+  column-width: 100;
+}
+
+.baris14 {
+  background-color: aliceblue;
+  text-decoration: none;
+  width: 1000;
+}
+
+.gambar1 {
+  width: 50;
+}
